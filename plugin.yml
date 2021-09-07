@@ -1,0 +1,12 @@
+name: Bank
+src-namespace-prefix: Bank
+main: Bank\Bank
+api: 4.0.0
+author: JinodkDevTeam
+version: 0.1
+depend: EconomyAPI
+description: Bank system use in FarmingIslandv2
+
+permissions:
+  bank.command:
+    default: true
